@@ -7,3 +7,7 @@ El término representa dos conceptos diferentes:
 * Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones ser más diversas y de gran alcance. A este conjunto se le llama HTML5 y amigos, a menudo reducido a HTML5.
 
 [Más información](https://developer.mozilla.org/es/docs/HTML/HTML5)
+
+## Etiquetas nuevas de HTML5
+
+![GitHub Logo](HTML4vsHTML5.png)
