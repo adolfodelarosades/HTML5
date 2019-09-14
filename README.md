@@ -10,4 +10,4 @@ El término representa dos conceptos diferentes:
 
 ## Etiquetas nuevas de HTML5
 
-![GitHub Logo](HTML4vsHTML5.png)
+(HTML4vsHTML5.png)
