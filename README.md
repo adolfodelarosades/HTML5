@@ -16,7 +16,7 @@ El término representa dos conceptos diferentes:
 
 Etiqueta HTML | Definición
 --------------|-----------
-  <acronym> | 1
+  `<acronym>` | 1
   <applet> | 2
   <basefont> | 3
   <big> | 4
