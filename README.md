@@ -11,3 +11,33 @@ El término representa dos conceptos diferentes:
 ## Etiquetas nuevas de HTML5
 
 ![HTML4vsHTML5](HTML4vsHTML5.png)
+
+## Etiquetas obsoletas
+
+Etiqueta HTML | Definición
+--------------|-----------
+<acronym>     |
+--------------|-----------
+<applet>      |
+--------------|-----------
+<basefont>    |
+--------------|-----------
+<big>         |
+--------------|-----------
+<center>      |
+--------------|-----------
+<dir>         |
+--------------|-----------
+<font>        |
+--------------|-----------
+<frame>       |
+--------------|-----------
+<frameset>    |
+--------------|-----------
+<isindex>     |
+--------------|-----------
+<noframes>    |
+--------------|-----------
+<strike>      |
+--------------|-----------
+<tt>          |
