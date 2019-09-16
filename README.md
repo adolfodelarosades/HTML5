@@ -87,4 +87,27 @@ Puede tener varios elementos `<header>` en un documento.
 
 **Nota**: No se puede colocar una etiqueta `<header>` dentro de un `<footer>`, `<address>` u otro elemento `<header>`.
 
+## HTML Headings
+
+Los encabezados se definen con las etiquetas `<h1>` a `<h6>`.
+
+`<h1>` define el encabezado más importante. `<h6>` define el encabezado menos importante.
+
+### Ejemplo
+
+```
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+```
+
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
   
