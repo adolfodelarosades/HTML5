@@ -73,7 +73,7 @@ Tag | Descripción
 </html>
 ```
 
-## `<header>`
+## HTML `<header>`
 
 El elemento `<header>` representa un contenedor para contenido introductorio o un conjunto de enlaces de navegación.
 
@@ -87,7 +87,7 @@ Puede tener varios elementos `<header>` en un documento.
 
 **Nota**: No se puede colocar una etiqueta `<header>` dentro de un `<footer>`, `<address>` u otro elemento `<header>`.
 
-## HTML Headings
+## HTML Headings `<h1>`...`<h2>`
 
 Los encabezados se definen con las etiquetas `<h1>` a `<h6>`.
 
@@ -130,3 +130,43 @@ El elemento HTML `<hgroup>` representa un encabezado de varios niveles para una 
     <h2>Fundamentos</h2>
 </hgroup>
 <p>Este curso comenzará con una breve introducción sobre el límite de una función. Luego describiremos cómo surge la idea de derivada en los campos de Física y Geometría. Después de eso, explicaremos que la clave para dominar el cálculo es...</p>
+
+## HTML `<nav>`
+  
+La etiqueta `<nav>` define un conjunto de enlaces de navegación.
+
+Tenga en cuenta que NO todos los enlaces de un documento deben estar dentro de un elemento <nav>. El elemento <nav> está destinado solo para el bloque principal de enlaces de navegación .
+
+## Listas HTML: Desordenadas `<ul>`, Ordenadas `<ol>`, Elementos <li>
+  
+Una lista desordenada comienza con el tag `<ul>`. Una lista desordenada comienza con el tag `<ul>`. Cada elemento de la lista comienza con la etiqueta `<li>`.
+
+Los elementos de la lista se marcarán con viñetas (pequeños círculos negros) de forma predeterminada en una lista desordenada y con números en una lista ordenada:
+
+### Ejemplo
+
+```
+<ul>
+  <li>Café</li>
+  <li>Te</li>
+  <li>Leche</li>
+</ul>
+
+<ol>
+  <li>Café</li>
+  <li>Te</li>
+  <li>Leche</li>
+</ol>  
+```
+
+<ul>
+  <li>Café</li>
+  <li>Te</li>
+  <li>Leche</li>
+</ul>  
+
+<ol>
+  <li>Café</li>
+  <li>Te</li>
+  <li>Leche</li>
+</ol>
