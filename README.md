@@ -28,5 +28,24 @@ Etiqueta HTML | Definición
   `<isindex>` |  Coloca un campo de texto en una página para consultar el documento.
   `<noframes>` | Proporciona contenido que se presentará en los navegadores que no soportan del elemento `<frame>`.
   `<strike>` | Coloca un tachado (línea horizontal) sobre el texto.
-  `<tt>` | Crea texto en línea que se presenta utilizando la fuente de monoespacio predeterminada. 
+  `<tt>` | Crea texto en línea que se presenta utilizando la fuente de monoespacio predeterminada.
+  
+  ## Estructura básica HTML5
+  
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+
+
   
