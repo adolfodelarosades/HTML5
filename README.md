@@ -120,13 +120,13 @@ El elemento HTML `<hgroup>` representa un encabezado de varios niveles para una 
 ```
 <hgroup>
     <h1>Cálculo I</h1>
-    <h2Fundamentos</h2>
+    <h2>Fundamentos</h2>
 </hgroup>
 <p>Este curso comenzará con una breve introducción sobre el límite de una función. Luego describiremos cómo surge la idea de derivada en los campos de Física y Geometría. Después de eso, explicaremos que la clave para dominar el cálculo es...</p>
 ```
 
 <hgroup>
     <h1>Cálculo I</h1>
-    <h2Fundamentos</h2>
+    <h2>Fundamentos</h2>
 </hgroup>
 <p>Este curso comenzará con una breve introducción sobre el límite de una función. Luego describiremos cómo surge la idea de derivada en los campos de Física y Geometría. Después de eso, explicaremos que la clave para dominar el cálculo es...</p>
