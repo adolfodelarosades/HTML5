@@ -10,7 +10,7 @@ El término representa dos conceptos diferentes:
 
 ## Etiquetas nuevas de HTML5
 
-<img src="HTML4vsHTML5.png" />
+<img src="/images/HTML4vsHTML5.png" />
 
 ## Etiquetas obsoletas
 
