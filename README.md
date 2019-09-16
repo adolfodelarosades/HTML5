@@ -110,4 +110,23 @@ Los encabezados se definen con las etiquetas `<h1>` a `<h6>`.
 <h4>Heading 4</h4>
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
+
+## HTML `<hgroup>`
+
+El elemento HTML `<hgroup>` representa un encabezado de varios niveles para una sección de un documento. Agrupa un conjunto de `<h1>`–`<h6>` elementos.
   
+### Ejemplo
+
+```
+<hgroup>
+    <h1>Cálculo I</h1>
+    <h2Fundamentos</h2>
+</hgroup>
+<p>Este curso comenzará con una breve introducción sobre el límite de una función. Luego describiremos cómo surge la idea de derivada en los campos de Física y Geometría. Después de eso, explicaremos que la clave para dominar el cálculo es...</p>
+```
+
+<hgroup>
+    <h1>Cálculo I</h1>
+    <h2Fundamentos</h2>
+</hgroup>
+<p>Este curso comenzará con una breve introducción sobre el límite de una función. Luego describiremos cómo surge la idea de derivada en los campos de Física y Geometría. Después de eso, explicaremos que la clave para dominar el cálculo es...</p>
