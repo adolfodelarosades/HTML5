@@ -73,5 +73,18 @@ Tag | Descripción
 </html>
 ```
 
+## `<header>`
+
+El elemento `<header>` representa un contenedor para contenido introductorio o un conjunto de enlaces de navegación.
+
+Un elemento `<header>` generalmente contiene:
+
+* Uno o más elementos de encabezado (`<h1>` - `<h6>`)
+* Logotipo o icono
+* Información de autoría
+
+Puede tener varios elementos `<header>` en un documento.
+
+**Nota**: No se puede colocar una etiqueta `<header>` dentro de un `<footer>`, `<address>` u otro elemento `<header>`.
 
   
