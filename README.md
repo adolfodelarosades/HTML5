@@ -14,8 +14,8 @@ El término representa dos conceptos diferentes:
 
 ## Etiquetas obsoletas
 
-Etiqueta HTML | Definición
---------------|-----------
+Tag | Descripción
+----|-------------
   `<acronym>` | Permite indicar una secuencia de caracteres que componen un acrónimo o abreviatura para una palabra. 
   `<applet>` | Incrusta un applet de Java en el documento.
   `<basefont>` | Establece una fuente, tamaño y color de fuente predeterminados para los otros elementos que descienden de su elemento padre.
@@ -30,7 +30,33 @@ Etiqueta HTML | Definición
   `<strike>` | Coloca un tachado (línea horizontal) sobre el texto.
   `<tt>` | Crea texto en línea que se presenta utilizando la fuente de monoespacio predeterminada.
   
-  ## Estructura básica HTML5
+## Etiqutas nuevas
+  
+Tag | Descripción
+----|-------------
+  `<article>` | Define un artículo en un documento
+  `<aside>` | Define contenido aparte(aside) del contenido de la página
+  `<bdi>` | Aísla una parte del texto que podría estar formateada en una dirección diferente de otro texto fuera de él
+  `<details>` | Define detalles adicionales que el usuario puede ver u ocultar
+  `<dialog>` | Define un cuadro de diálogo o ventana
+  `<figcaption>` | Define un título para un elemento `<figure>`
+  `<figure>` | Define contenido autocontenido
+  `<footer>` | Define un pie de página para un documento o sección
+  `<header>` | Define un encabezado para un documento o sección
+  `<main>` | Define el contenido principal de un documento
+  `<mark>` | Define texto marcado/resaltado
+  `<meter>` | Define una medición escalar dentro de un rango conocido (un medidor)
+  `<nav>` | Define enlaces de navegación
+  `<progress>` | Representa el progreso de una tarea
+  `<rp>` | Define qué mostrar en los navegadores que no admiten anotaciones ruby
+  `<rt>` | Define una explicación / pronunciación de los caracteres (para la tipografía de Asia Oriental)
+  `<ruby>` | Define una anotación ruby (para la tipografía de Asia oriental)
+  `<section>` | Define una sección en un documento
+  `<summary>` | Define un encabezado visible para un elemento `<details>`
+  `<time>` | Define una fecha/hora
+  `<wbr>` | Define un posible salto de línea 
+  
+## Estructura básica HTML5
   
 ```
 <!DOCTYPE html>
