@@ -137,7 +137,7 @@ La etiqueta `<nav>` define un conjunto de enlaces de navegación.
 
 Tenga en cuenta que NO todos los enlaces de un documento deben estar dentro de un elemento <nav>. El elemento <nav> está destinado solo para el bloque principal de enlaces de navegación .
 
-## Listas HTML: Desordenadas `<ul>`, Ordenadas `<ol>`, Elementos <li>
+## Listas HTML: Desordenadas `<ul>`, Ordenadas `<ol>`, Elementos `<li>`
   
 Una lista desordenada comienza con el tag `<ul>`. Una lista desordenada comienza con el tag `<ul>`. Cada elemento de la lista comienza con la etiqueta `<li>`.
 
@@ -170,3 +170,7 @@ Los elementos de la lista se marcarán con viñetas (pequeños círculos negros)
   <li>Te</li>
   <li>Leche</li>
 </ol>
+
+## HTML Links `<a...>`
+
+
